@@ -1,0 +1,25 @@
+[
+    {"id": 1, "nombre": "Cashmilon 4/7", "tipo": "Acrilico 100%", "desc": "Hilado acrílico semigrueso. Para agujas 5-6 mm. Suave, rendidor y abrigado", "categoria": "invierno", "precioMadeja": "1200", "precioOvillo": "", "img": "img/cashmilon47150gr.png"},
+    {"id": 2, "nombre": "Sedificado", "tipo": "Acrílico sedificado", "desc": "Hilado acrílico con brillo. Para agujas 4-5 mm", "categoria": "verano", "precioMadeja": "1200", "precioOvillo": "", "img": "img/Sedificado150gr.png"},
+    {"id": 3, "nombre": "Cashmilon 3/16", "tipo": "Acrilico 100%", "desc": "Hilado acrílico fino. Para agujas 2,5-3,5 mm. Hipoalergenico. Ideal para bebé y apto para tejido en máquina", "categoria": "verano", "precioMadeja": "1200", "precioOvillo": "", "img": "img/hiladoimagen.png"},
+    {"id": 4, "nombre": "Tirreno liso", "tipo": "Acrilico 100%", "desc": "Hilado acrílico grueso. Para agujas 10 mm", "categoria": "invierno", "precioMadeja": "1200", "precioOvillo": "", "img": "img/Tirreno150gr.png"},
+    {"id": 5, "nombre": "Cashmilon 4/7 matizado", "tipo": "Acrilico 100%", "desc": "Hilado acrílico semigrueso. Para agujas 5-6 mm. Suave, rendidor y abrigado", "categoria": "invierno", "precioMadeja": "1200", "precioOvillo": "", "img": "img/hiladoimagen.png"},
+    {"id": 6, "nombre": "Algodón 8/6", "tipo": "Algodón rústico", "desc": "Hilado semigrueso. Para agujas 4-6 mm", "categoria": "verano", "precioMadeja": "1200", "precioOvillo": "", "img": "img/Algodon86150gr.png"},
+    {"id": 7, "nombre": "Algodón 8/3", "tipo": "Algodón rústico", "desc": "Hilado fino. Para agujas 2-4mm. Proyecto finos y delicados", "categoria": "verano", "precioMadeja": "1200", "precioOvillo": "", "img": "img/Algodon83150gr.png"},
+    {"id": 8, "nombre": "Algodón 5/4", "tipo": "Algodón rústico", "desc": "Hilado semigrueso. Para agujas 3,5-4,5 mm", "categoria": "verano", "precioMadeja": "1200", "precioOvillo": "", "img": "img/Algodon54150gr.png"},
+    {"id": 9, "nombre": "Cotone 8/8", "tipo": "Algodón peinado", "desc": "Hilado semigrueso. Para agujas 3,5-6mm dependiendo del proyecto", "categoria": "verano", "precioMadeja": "1200", "precioOvillo": "", "img": "img/Cotone100gr.png"},
+    {"id": 10, "nombre": "Algodón con seda", "tipo": "Algodón sedificado", "desc": "Hilado fino, título 8/3. Para agujas 3,5-4,5mm", "categoria": "verano", "precioMadeja": "1200", "precioOvillo": "", "img": "img/Algodonconseda50gr.png"},
+    {"id": 11, "nombre": "Profano", "tipo": "Acrilico, algodón y lana", "desc": "Hilado semigrueso. Para agujas 4-5mm. Sueve y rendidor", "categoria": "invierno", "precioMadeja": "1200", "precioOvillo": "", "img": "img/Profano150gr.png"},
+    {"id": 12, "nombre": "Yute blend", "tipo": "Yute con fibras", "desc": "Hilado semigrueso, un cabo de yute y un cabo de fibras mezcladas. Para agujas 6-7 mm", "categoria": "invierno", "precioMadeja": "1200", "precioOvillo": "", "img": "img/hiladoimagen.png"},
+    {"id": 13, "nombre": "Cordon de algodón", "tipo": "Algodón", "desc": "Hilado grueso de 4 pabilos. Para agujas 9-10mm", "categoria": "invierno", "precioMadeja": "1200", "precioOvillo": "", "img": "img/hiladoimagen.png"},
+    {"id": 14, "nombre": "Carioca", "tipo": "Cordón trenzado", "desc": "Hilado grueso. Cordón trenzado. Para aguja 12-14mm", "categoria": "invierno", "precioMadeja": "1200", "precioOvillo": "", "img": "img/hiladoimagen.png"},
+    {"id": 15, "nombre": "Multicabo 16", "tipo": "Algodón", "desc": "Hilado semigrueso. 16 cabos. Para agujas 5,5-6mm", "categoria": "verano", "precioMadeja": "1200", "precioOvillo": "", "img": "img/hiladoimagen.png"},
+    {"id": 16, "nombre": "Multicabo 32", "tipo": "Algodón", "desc": "Hilado grueso. 32 cabos. Para agujas 8-9mm", "categoria": "invierno", "precioMadeja": "1200", "precioOvillo": "", "img": "img/hiladoimagen.png"},
+    {"id": 17, "nombre": "Yute 1 cabo", "tipo": "Yute natural", "desc": "Hilado fino, grosor 1,5-2mm. Para agujas 2,5-3mm", "categoria": "verano", "precioMadeja": "1200", "precioOvillo": "", "img": "img/hiladoimagen.png"},
+    {"id": 18, "nombre": "Yute 2 cabos", "tipo": "Yute natural", "desc": "Hilado fino, grosor 3,5-4mm. Para agujas 5-6mm", "categoria": "verano", "precioMadeja": "1200", "precioOvillo": "", "img": "img/hiladoimagen.png"},
+    {"id": 19, "nombre": "Yute 3 cabos", "tipo": "Yute natural", "desc": "Hilado semigrueso, grosor 4mm. Para agujas 6mm", "categoria": "invierno", "precioMadeja": "1200", "precioOvillo": "", "img": "img/hiladoimagen.png"},
+    {"id": 20, "nombre": "Cash 4/7 rendidor", "tipo": "Acrílico con poliamida", "desc": "Hilado semigrueso. Su composición hace que sea liviano y rendidor. Para agujas 5mm", "categoria": "verano", "precioMadeja": "1200", "precioOvillo": "", "img": "img/hiladoimagen.png"},
+    {"id": 21, "nombre": "Mecha acrílica", "tipo": "Acrilico", "desc": "Hilado semigrueso. Reciclado. Para agujas 5-6mm", "categoria": "invierno", "precioMadeja": "1200", "precioOvillo": "", "img": "img/hiladoimagen.png"}
+    
+
+]
